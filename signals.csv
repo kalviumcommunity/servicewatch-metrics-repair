@@ -1,0 +1,5 @@
+window,requests,failed_requests
+baseline,100,1
+incident-1,100,20
+incident-2,100,22
+incident-3,100,21
